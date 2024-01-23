@@ -32,7 +32,7 @@ p{
 
 .e{
     color: rgb(255, 255, 255);
-    text-decoration:blue;
+    text-decoration:rgb(31, 94, 123);
 }
 .e:hover{
    color: rgb(36, 172, 54);
